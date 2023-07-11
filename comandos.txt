@@ -7,3 +7,5 @@ npm install mongoose --save
 npm install mongodb
 
 npm install dotenv --save
+
+npm i jsonwebtoken
